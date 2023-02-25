@@ -1,0 +1,6 @@
+train: /home/zheng/Documents/SDP-10-Vision/Tshirt_Dataset/train/images
+val: /home/zheng/Documents/SDP-10-Vision/Tshirt_Dataset/valid/images
+test: /home/zheng/Documents/SDP-10-Vision/Tshirt_Dataset/test/images
+
+nc: 2
+names: ['T-shirt', 'towel']

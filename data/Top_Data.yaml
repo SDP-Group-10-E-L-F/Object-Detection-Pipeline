@@ -1,0 +1,7 @@
+train: /home/zheng/Documents/SDP-10-Vision/Top_Dataset/train/images
+val: /home/zheng/Documents/SDP-10-Vision/Top_Dataset/valid/images
+test: /home/zheng/Documents/SDP-10-Vision/Top_Dataset/test/images
+
+nc: 1
+names: ['top']
+
