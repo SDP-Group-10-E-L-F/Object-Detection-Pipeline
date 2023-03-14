@@ -1,0 +1,6 @@
+train: /home/zheng/Documents/SDP-10-Vision/All_Dataset/train/images
+val: /home/zheng/Documents/SDP-10-Vision/All_Dataset/valid/images
+test: /home/zheng/Documents/SDP-10-Vision/All_Dataset/test/images
+
+nc: 5
+names: ['T-shirt', 'LongSleeve', 'Shorts', 'Trousers', 'Hands']
